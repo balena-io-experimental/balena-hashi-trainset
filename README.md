@@ -6,7 +6,9 @@ This repository contains the necessary pieces to build a fun, interactive model 
 Here is a quick breakdown of the relevant applications in use:
 
 <b>balenaCloud</b>:  IoT Fleet Management application that allows for Docker-compatible containers to be pushed to remote devices at scale.
+
 <b>HashiCorp Consul</b>:  A multi-cloud service networking platform to connect and secure services across any runtime platform.
+
 <b>HashiCorp Nomad</b>:  An easy-to-use, flexible, and performant workload orchestrator.
 
 
