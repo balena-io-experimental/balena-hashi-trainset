@@ -12,3 +12,5 @@ Here is a quick breakdown of the relevant applications in use:
 <b>HashiCorp Nomad</b>:  An easy-to-use, flexible, and performant workload orchestrator.
 
 
+
+This is a work in progress, and will be updated as we develop and build out the demo.
